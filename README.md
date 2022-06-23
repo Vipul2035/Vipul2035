@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vipul2035
 - 👀 I’m interested in ... Automation
-- 🌱 I’m currently learning ...devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
